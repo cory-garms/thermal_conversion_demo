@@ -10,7 +10,7 @@ Follow these steps to batch process all R-JPG in a folder and output converted T
 
 2. Move the file called exiftool.exe to a folder that is listed in your PATH variable such as 'C:/Windows'
 
-3. Open the Anaconda terminal and create a new python 3.6 environment using: 'conda create -n thermal_env python=3.6 gdal numpy matplotlib'
+3. Open the Anaconda terminal and create a new python 3.6 environment using: `conda create -n thermal_env python=3.6 gdal numpy matplotlib`
 
 4. Activate the new environment using: 'conda acivate thermal_env'
 
