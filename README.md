@@ -2,7 +2,7 @@
 
 Tutorial on how to use thermal_parser and exiftool to convert DJI radiometric JPG (R-JPG) to TIF with temp values and append GPS metadata
 
-*** for Windows PC only ***
+*** for Windows PC only, need to install Anaconda prior (https://www.anaconda.com/) ***
 
 Follow these steps to batch process all R-JPG in a folder and output converted TIF files with same base name in the same folder:
 
