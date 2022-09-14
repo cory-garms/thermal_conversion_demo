@@ -21,3 +21,6 @@ Follow these steps to batch process all R-JPG in a folder and output converted T
 7. Process the images using: `python tir_convert.py`
 
 8. Find the converted images in the same folder as the inputs with the same root names and the '.tif' file extension
+
+
+YouTube video showing more detailed process for how this was created can be found here: https://youtu.be/ulnPtSWGg18
