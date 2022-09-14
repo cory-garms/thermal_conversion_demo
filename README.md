@@ -25,6 +25,8 @@ Follow these steps to batch process all R-JPG in a folder and output converted T
 
 YouTube video showing more detailed process for how this was created can be found here: https://youtu.be/ulnPtSWGg18
 
-Credits: 
+Credits:
+
 -SanNianYiSi on github and their thermal_parser repo: https://github.com/SanNianYiSi/thermal_parser
+
 -Exiftool by Phil Harvey: www.exiftool.com
